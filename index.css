@@ -1,0 +1,63 @@
+* {
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  background-color: #11118B;
+}
+header h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: 700;
+  padding-left: 60px;
+  padding-top: 20px;
+}
+
+.main {
+  padding-left: 60px;
+  padding-bottom: 14px;
+}
+.main .bouton {
+  background-color: #11118B;
+  color: white;
+  width: 301px;
+  height: 60px;
+  font-size: 23px;
+}
+.main .Unlock {
+  font-size: 60px;
+  color: #11118B;
+}
+.main p {
+  padding-bottom: 26px;
+}
+
+.bloc {
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: #EEEEFC;
+  height: 228px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.bloc .Develop {
+  color: #11118B;
+  padding-top: 38px;
+  font-size: 45px;
+  margin-bottom: 0px;
+}
+
+.blocc {
+  margin-left: 60px;
+  margin-right: 60px;
+  background-color: #EEEEFC;
+  height: 228px;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+.blocc .Unreal {
+  color: #11118B;
+  padding-top: 38px;
+  font-size: 45px;
+  margin-bottom: 0px;
+}/*# sourceMappingURL=index.css.map */
